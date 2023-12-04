@@ -1,3 +1,3 @@
 # enquete-vie-sociale-des-donnees
 Guide Michelin
-Introduction: 
+Introduction: NOus nous présentons notre enquete sur le guide michelin
