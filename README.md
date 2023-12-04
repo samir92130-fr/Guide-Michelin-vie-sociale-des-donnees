@@ -1,2 +1,2 @@
 # enquete-vie-sociale-des-données
-Guide Michelin 
+Enquete sur le Guide Michelin 
