@@ -6,4 +6,4 @@
 
 **Le Guide Michelin, de 1900 à nos jours**
 _Pourquoi l'entreprise de pneumatiques Michelin ?_
-Le guide Michelin a été créé en 1900 par les frères Michelin, fondateurs de la marque de pneumatiques éponyme. Il est offert avec l’achat de pneus et contient une partie technique très importante variant autour de 25% du volume total du guide selon les années. Néanmoins, avec le développement de l’automobile dans l’après-guerre, les frères Michelin ont décidé d’enrichir le guide. Ainsi, le guide s’enrichit de cartes des routes françaises, des lieux de stations d’essence et de lieux de restauration ainsi que d’hébergement.
+<Le guide Michelin a été créé en 1900 par les frères Michelin, fondateurs de la marque de pneumatiques éponyme. Il est offert avec l’achat de pneus et contient une partie technique très importante variant autour de 25% du volume total du guide selon les années. Néanmoins, avec le développement de l’automobile dans l’après-guerre, les frères Michelin ont décidé d’enrichir le guide. Ainsi, le guide s’enrichit de cartes des routes françaises, des lieux de stations d’essence et de lieux de restauration ainsi que d’hébergement.>
