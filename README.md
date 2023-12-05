@@ -1,6 +1,7 @@
-# enquete-vie-sociale-des-donnees Guide Michelin
+# Enquete vie sociale des données 
 
 **Introduction: Enquete sur le guide michelin**
+
 
 Cette enquete est divisée en quatre parties: 1)une histoire du guide michelin, de 1900 à nos jours 2)une analyse quantitative du jeu de données 3) une analyse qualitative du phénomène des étoiles 4)l'évolution du guide à l'heure du numérique
 
