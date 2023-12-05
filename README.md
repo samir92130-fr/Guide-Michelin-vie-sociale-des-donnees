@@ -36,4 +36,13 @@ La division du guide michelin en deux guides semblent illustrer une division soc
 
 _L'internationalisation du guide_
 
+Très rapidement le guide Michelin s’est exporté à l’international. Ainsi, une version Belge est publiée en 1904 puis une version britannique en 1911. Au lendemain de la seconde guerre, le guide s’exporte de l’autre côté de l’Atlantique: direction les Etats-Unis.
+Aujourd’hui, le guide est publié dans chacun des pays de l’Europe de l’Ouest, aux Etats-Unis, ainsi que dans certaines grandes villes d’Asie notamment au Japon ou encore à Singapour! 
 
+**2-Analyse quantitative du jeu de données**
+
+
+**3-Analyse qualitative**
+
+
+**4-L'évolution du guide à l'heure du numérique**
