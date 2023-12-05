@@ -27,4 +27,3 @@ _Du guide michelin aux guides rouge et vert_
 La division du guide michelin en deux guides semblent illustrer une division sociale. En effet, les restaurants classés dans le guide rouge sont des restaurants gastronomiques accessibles seulement à la bourgeoisie tandis que le guide vert répond aux attentes d’une clientèle bien plus populaire. 
 
 
-
