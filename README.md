@@ -20,5 +20,11 @@ _Évolution au cours de l'histoire et émergence des étoiles…_
 
 Pour classer les restaurants, apparaît en 1926 la première étoile. Puis en 1931 est créée la deuxième et troisième étoile. De plus, la partie technique a été de plus en plus réduite, jusqu’à ne plus être présente aujourd’hui dans le guide rouge. Par ailleurs, les fondateurs insistent sur la probité du classement; principe encore fortement présent aujourd’hui: 
 
+![Michelin 2](https://github.com/samir92130-fr/enquete-vie-sociale-des-donnees/assets/152915097/c8a48331-ba7a-4b59-8c7f-9c9384378e7c)
+
+_Du guide michelin aux guides rouge et vert_
+
+La division du guide michelin en deux guides semblent illustrer une division sociale. En effet, les restaurants classés dans le guide rouge sont des restaurants gastronomiques accessibles seulement à la bourgeoisie tandis que le guide vert répond aux attentes d’une clientèle bien plus populaire. 
+
 
 
