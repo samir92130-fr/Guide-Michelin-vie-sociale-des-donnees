@@ -82,10 +82,15 @@ Sur ce graphique, la courbe bleue montre le nombre de recherches effectuées sur
 
 Bonnet, E. (2004). Les critiques gastronomiques : quelques caractéristiques d’une activité experte. Sociétés contemporaines, 53(1), 135. https://doi.org/10.3917/soco.053.0135
 Drucker-Godard, C., Bouty, I. & Gomez, M. (2011). De la France au monde: Le Guide Michelin, vecteur du rayonnement de la marque France ?. Revue française de gestion, 218-219, 53-66. https://www.cairn.info/revue—2011-9-page-53.htm.
+
 Karpik, L. (2000). Le guide rouge Michelin. Sociologie Du Travail, 42(3), 369‑389. https://doi.org/10.4000/sdt.36855
+
 Le guide MICHELIN - le site officiel. (s. d.). MICHELIN Guide. https://guide.michelin.com/fr/fr
+
 Poullennec, G. (2011). Le guide Michelin : une référence mondiale de la gastronomie locale. Dans Le guide Michelin : une référence mondiale de la gastronomie locale.
+
 Poullennec, G. (2016). Les raisons de la réussite du guide Michelin au Japon. Monde chinois, 47(3), 52. https://doi.org/10.3917/mochi.047.0052
+
 Senderens, A. (2007). La créativité sans les étoiles. Journal de l’Ecole de Paris du management, 63(1), 31. https://doi.org/10.3917/jepam.063.031
 
 
