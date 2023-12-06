@@ -12,6 +12,7 @@ Ainsi, cette enquete est divisée en quatre parties: 1)une histoire du guide mic
 _Pourquoi l'entreprise de pneumatiques Michelin ?_
 
 Le guide Michelin a été créé en 1900 par les frères Michelin, fondateurs de la marque de pneumatiques éponyme. Cette date n'est pas anodine: il s'agit de la date de la cinquième exposition universelle organisée à Paris. Ainsi, ce guide est offert avec l’achat de pneus et contient une partie technique très importante variant entre 25% et 50% du volume total du guide selon les années. La première année, il est publié à plus de 30 000 exemplaires. Au lendemain de la première guerre mondiale qui est marquée par le développement de l’automobile, les frères Michelin décident d’enrichir le guide. Ainsi, le guide s’enrichit de cartes des routes françaises, des lieux de stations d’essence et de lieux de restauration ainsi que d’hébergement. 
+
 ![michelin1](https://github.com/samir92130-fr/enquete-vie-sociale-des-donnees/assets/152915097/e2ecc6ad-748f-401c-b18d-86fabdb7af59)
 ![Guide Michelin en 1931: sur ces deux pages, on observe la mention de restaurants, d'hôtels ainsi que d’agents motoristes et constructeurs.  ] 
 
