@@ -1,6 +1,4 @@
-# Enquete vie sociale des données 
-
-**Introduction: Enquete sur le guide michelin**
+# Enquete sur le guide michelin 
 
 # Introduction
 
