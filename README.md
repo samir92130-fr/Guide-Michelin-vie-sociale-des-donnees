@@ -96,3 +96,6 @@ Poullennec, G. (2016). Les raisons de la réussite du guide Michelin au Japon. M
 Senderens, A. (2007). La créativité sans les étoiles. Journal de l’Ecole de Paris du management, 63(1), 31. https://doi.org/10.3917/jepam.063.031
 
 
+# Athénaïs HUET, Samir AKLI, Roméo Bernhart et Vianney Menard
+
+
