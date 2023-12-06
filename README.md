@@ -57,6 +57,9 @@ Le nombre de restaurants a évolué dans le temps comme en témoigne le graphiqu
 Nous constatons donc que dans le temps le nombre de restaurants 2 et 3 étoiles semble plutôt stable. Cependant c’est le nombre de restaurants 1 étoile qui semble augmenter de plus en plus.
 Il est important également de noter la répartition géographique des restaurants. En effet, les restaurants étoilés semblent concentrés dans certaines zones géographiques plus que d’autres.
 
+![statistic_id1352928_nombre-de-restaurants-etoiles-par-region-2022](https://github.com/samir92130-fr/enquete-vie-sociale-des-donnees/assets/153020927/54b25284-cf02-4a0d-85f9-149731936907)
+
+
 Les restaurants étoilés sont également présents à l’étranger. Si l’on regarde les villes qui concentrent le plus de restaurants étoilés, nous retrouvons Tokyo, Paris, Kyoto, New York mais aussi Osaka, Hong Kong et San Francisco. Nous remarquons que le Japon concentre de nombreux restaurants étoilés.
 Il peut être intéressant également de regarder l’impact pour les nouveaux restaurants étoilés. L’attribution d’une étoile ne garantit pas le maintien de celle-ci les années suivantes. En effet, chaque année, certains perdent leurs étoiles et de nouveaux restaurants sont étoilés. En 2023, 44 nouveaux restaurants ont été étoilés où ont reçu une étoile supplémentaire. Cela a bien sûr un impact sur l'affluence et la popularité de ces restaurants. Une étude sur google trends peut donner un aperçu de l’impact de ces nouvelles étoiles sur la visibilité donnée au restaurant. 
 
