@@ -28,10 +28,6 @@ En 1920, le guide devient payant car selon l'un des frères Michelin "l'homme ne
 
 _Du guide michelin aux guides rouge et vert_
 
-Très rapidement le guide Michelin s’est exporté à l’international. Ainsi, une version Belge est publiée en 1904 puis une version britannique en 1911. Au lendemain de la seconde guerre, le guide s’exporte de l’autre côté de l’Atlantique: direction les Etats-Unis.
-Aujourd’hui, le guide est publié dans chacun des pays de l’Europe de l’Ouest, aux Etats-Unis, ainsi que dans certaines grandes villes d’Asie notamment au Japon ou encore à Singapour! 
-
-
 La division du guide michelin en deux guides semblent illustrer une division sociale. En effet, les restaurants classés dans le guide rouge sont des restaurants gastronomiques accessibles seulement à la bourgeoisie tandis que le guide vert répond aux attentes d’une clientèle bien plus populaire. 
 
 _L'internationalisation du guide_
