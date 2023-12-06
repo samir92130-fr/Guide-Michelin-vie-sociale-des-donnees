@@ -56,6 +56,7 @@ Le nombre de restaurants a évolué dans le temps comme en témoigne le graphiqu
 
 <img width="452" alt="graphique 1" src="https://github.com/samir92130-fr/enquete-vie-sociale-des-donnees/assets/153020927/5c2696b7-8a68-4095-8db5-6a5cba29c7d7">
 
+
 Nous constatons donc que dans le temps le nombre de restaurants 2 et 3 étoiles semble plutôt stable. Cependant c’est le nombre de restaurants 1 étoile qui semble augmenter de plus en plus.
 Il est important également de noter la répartition géographique des restaurants. En effet, les restaurants étoilés semblent concentrés dans certaines zones géographiques plus que d’autres.
 
@@ -66,6 +67,7 @@ Les restaurants étoilés sont également présents à l’étranger. Si l’on 
 Il peut être intéressant également de regarder l’impact pour les nouveaux restaurants étoilés. L’attribution d’une étoile ne garantit pas le maintien de celle-ci les années suivantes. En effet, chaque année, certains perdent leurs étoiles et de nouveaux restaurants sont étoilés. En 2023, 44 nouveaux restaurants ont été étoilés où ont reçu une étoile supplémentaire. Cela a bien sûr un impact sur l'affluence et la popularité de ces restaurants. Une étude sur google trends peut donner un aperçu de l’impact de ces nouvelles étoiles sur la visibilité donnée au restaurant. 
 
 <img width="449" alt="graphique 2" src="https://github.com/samir92130-fr/enquete-vie-sociale-des-donnees/assets/153020927/4dbd6d6f-5a14-407b-90f5-8a664ceda55c">
+
 
 Sur ce graphique, la courbe bleue montre le nombre de recherches effectuées sur le restaurant la Marine qui est le nouveau restaurant 3 étoiles Michelin en 2023. La courbe rouge montre les données pour le restaurant Astrance qui a décroché sa première étoile en 2023. Nous constatons bien un pic de visite à l’annonce du guide Michelin le 6 mars 2023. Cependant, il est important de nuancer que les recherches google vont continuer d’augmenter pour le 3 étoiles tandis qu’elles resteront stables pour le 1 étoile. Ainsi, nous pouvons imaginer que pour un restaurant déjà étoilé comme l’était la Marine une nouvelle étoile apporte encore plus de visibilité que pour un restaurant qui vient de décrocher sa première étoile.
 
