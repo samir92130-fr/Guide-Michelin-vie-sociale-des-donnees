@@ -54,6 +54,8 @@ Le classement par étoiles est très simple puisqu’il existe 3 différents niv
 -3 étoiles :  cela récompense une cuisine remarquable pour des chefs au sommet de leur talent. Ces plats peuvent être vus comme des classiques et cette cuisine est considérée comme un art. 
 Le nombre de restaurants a évolué dans le temps comme en témoigne le graphique suivant construit avec les listes publiées par le guide Michelin.
 
+<img width="452" alt="graphique 1" src="https://github.com/samir92130-fr/enquete-vie-sociale-des-donnees/assets/153020927/5c2696b7-8a68-4095-8db5-6a5cba29c7d7">
+
 Nous constatons donc que dans le temps le nombre de restaurants 2 et 3 étoiles semble plutôt stable. Cependant c’est le nombre de restaurants 1 étoile qui semble augmenter de plus en plus.
 Il est important également de noter la répartition géographique des restaurants. En effet, les restaurants étoilés semblent concentrés dans certaines zones géographiques plus que d’autres.
 
