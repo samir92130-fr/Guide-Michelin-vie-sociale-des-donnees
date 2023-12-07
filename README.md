@@ -8,7 +8,7 @@ Par ailleurs, notre enquête s’est avérée complexe étant donnée l’opacit
 
 Ainsi, cette enquete est divisée en quatre parties: 1)une histoire du guide michelin, de 1900 à nos jours 2)une analyse quantitative du jeu de données 3) une analyse qualitative du phénomène des étoiles 4)l'évolution du guide à l'heure du numérique
 
-# 1-Le Guide Michelin, de 1900 à nos jours
+# 1-Le Guide Michelin de 1900 à nos jours, de vos pneumatiques jusque dans votre assiette
 
 _Pourquoi l'entreprise de pneumatiques Michelin ?_
 
@@ -37,7 +37,7 @@ _L'internationalisation du guide_
 Très rapidement le guide Michelin s’est exporté à l’international. Ainsi, une version belge est publiée en 1904 puis une version britannique en 1911. Au lendemain de la seconde guerre, le guide s’exporte de l’autre côté de l’Atlantique: direction les Etats-Unis.
 Aujourd’hui, le guide est publié dans chacun des pays de l’Europe de l’Ouest, aux Etats-Unis, ainsi que dans certaines grandes villes d’Asie notamment au Japon ou encore à Singapour! 
 
-# 2-Analyse quantitative du jeu de données
+# 2-Analyse quantitative du jeu de données entre opacité et prestige
 
 A)Les méthodes, critères du guide, comment quantifier l’inquantifiable de la gastronomie
 
