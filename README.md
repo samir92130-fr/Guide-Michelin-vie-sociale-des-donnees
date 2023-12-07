@@ -140,6 +140,9 @@ Poullennec, G. (2016). Les raisons de la réussite du guide Michelin au Japon. M
 
 Senderens, A. (2007). La créativité sans les étoiles. Journal de l’Ecole de Paris du management, 63(1), 31. https://doi.org/10.3917/jepam.063.031
 
+Cardon, V. (2014). Des chiffres et des lettres: Évaluation, expressions du jugement de qualité et hiérarchies sur le marché de l'hôtellerie. Réseaux, 183, 207-245. https://doi.org/10.3917/res.183.0205 
+
+Beauvisage, T., Beuscart, J., Mellet, K. & Trespeuch, M. (2014). Une démocratisation du marché : Notes et avis de consommateurs sur le Web dans le secteur de la restauration. Réseaux, 183, 163-204. 
 
 # Athénaïs HUET, Samir AKLI, Roméo Bernhart et Vianney Menard
 
