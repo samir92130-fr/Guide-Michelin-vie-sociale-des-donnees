@@ -2,7 +2,7 @@
 _Pour une lecture analytique d’une quantification qui dépasse malgré elle l’objet de sa mesure_
 
 ## Introduction
-
+<p align="justify"> Your Text </p>
 Nous avons décidé de travailler sur le classement par étoiles des restaurants gastronomiques et avons étudié le jeu de données du Guide Michelin. Notre objectif était d’analyser la quantification de l’inquantifiable: c'est-à-dire la qualité culinaire. Ainsi, nous nous sommes retrouvés face à de nombreuses interrogations: Pourquoi une marque de pneumatiques s’est-elle retrouvée à classer des restaurants ?  Comment est-il possible de classer la nourriture des restaurants ? Quels sont les critères? Pourquoi le guide utilise des étoiles ? Comment le guide a-t-il évolué à l’heure du numérique ? Tout l’objet de ce site est donc de répondre à ces questions. 
 Par ailleurs, notre enquête s’est avérée complexe étant donnée l’opacité du guide. La principale difficulté étant d’interviewer un acteur de ce monde. Après avoir essuyé de nombreux refus, nous avons pu interroger un haut gradé de l’équipe du restaurant une étoile, Joël Robuchon- Saint Germain. 
 
