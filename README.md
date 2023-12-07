@@ -130,6 +130,10 @@ Bonnet, E. (2004). Les critiques gastronomiques : quelques caractéristiques d�
 
 Drucker-Godard, C., Bouty, I. & Gomez, M. (2011). De la France au monde: Le Guide Michelin, vecteur du rayonnement de la marque France ?. Revue française de gestion, 218-219, 53-66. https://www.cairn.info/revue—2011-9-page-53.htm.
 
+GERGAUD,O. (2017) Etoiles Michelin :Quel impact économique et financier sur les restaurants ? http://olivier.gergaud.free.fr/files/Michelin_finance.pdf
+
+Hugol-Gential, C. & Michon, D. (2020). Perdre ou renoncer aux étoiles : analyse des discours médiatiques et paroles de chefs à l’ère de la transparence. Communication & langages, 206, 35-49. https://doi.org/10.3917/comla1.206.0035
+
 Karpik, L. (2000). Le guide rouge Michelin. Sociologie Du Travail, 42(3), 369‑389. https://doi.org/10.4000/sdt.36855
 
 Le guide MICHELIN - le site officiel. (s. d.). MICHELIN Guide. https://guide.michelin.com/fr/fr
