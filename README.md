@@ -1,4 +1,5 @@
-# Enquete sur le guide michelin 
+# Le Guide Michelin faiseur de roi et de reines de la gastronomie
+_Pour une lecture analytique d’une quantification qui dépasse malgré elle l’objet de sa mesure_
 
 # Introduction
 
