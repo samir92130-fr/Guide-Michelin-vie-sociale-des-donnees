@@ -73,7 +73,7 @@ Il peut être intéressant également de regarder l’impact pour les nouveaux r
 Sur ce graphique, la courbe bleue montre le nombre de recherches effectuées sur le restaurant la Marine qui est le nouveau restaurant 3 étoiles Michelin en 2023. La courbe rouge montre les données pour le restaurant Astrance qui a décroché sa première étoile en 2023. Nous constatons bien un pic de visite à l’annonce du guide Michelin le 6 mars 2023. Cependant, il est important de nuancer que les recherches google vont continuer d’augmenter pour le 3 étoiles tandis qu’elles resteront stables pour le 1 étoile. Ainsi, nous pouvons imaginer que pour un restaurant déjà étoilé comme l’était la Marine une nouvelle étoile apporte encore plus de visibilité que pour un restaurant qui vient de décrocher sa première étoile.
 
 
-# 3-Analyse qualitative : Derrière les fourneaux, la vision des chefs de la quantification étoilée du Guide Michelin
+# 3-Analyse qualitative : Derrière les fourneaux, le regard des chefs sur la quantification étoilée du Guide Michelin
 
 "Les étoiles, on vit très bien sans, mais beaucoup mieux avec." 
 
