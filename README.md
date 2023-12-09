@@ -70,8 +70,9 @@ Il peut être intéressant également de regarder l’impact pour les nouveaux r
 <img width="449" alt="graphique 2" src="https://github.com/samir92130-fr/enquete-vie-sociale-des-donnees/assets/153020927/4dbd6d6f-5a14-407b-90f5-8a664ceda55c">
 
 
-Sur ce graphique, la courbe bleue montre le nombre de recherches effectuées sur le restaurant la Marine qui est le nouveau restaurant 3 étoiles Michelin en 2023. La courbe rouge montre les données pour le restaurant Astrance qui a décroché sa première étoile en 2023. Nous constatons bien un pic de visite à l’annonce du guide Michelin le 6 mars 2023. Cependant, il est important de nuancer que les recherches google vont continuer d’augmenter pour le 3 étoiles tandis qu’elles resteront stables pour le 1 étoile. Ainsi, nous pouvons imaginer que pour un restaurant déjà étoilé comme l’était la Marine une nouvelle étoile apporte encore plus de visibilité que pour un restaurant qui vient de décrocher sa première étoile.
+Sur ce graphique, la courbe bleue montre le nombre de recherches effectuées sur le restaurant la Marine qui est le nouveau restaurant 3 étoiles Michelin en 2023. La courbe rouge montre les données pour le restaurant Astrance qui a décroché sa première étoile en 2023. Nous constatons bien un pic de visite à l’annonce du guide Michelin le 6 mars 2023. Cependant, il est important de nuancer que les recherches google vont continuer d’augmenter pour le 3 étoiles tandis qu’elles resteront stables pour le 1 étoile. Ainsi, nous pouvons imaginer que pour un restaurant déjà étoilé comme l’était la Marine une nouvelle étoile apporte encore plus de visibilité que pour un restaurant qui vient de décrocher sa première étoile. 
 
+Néanmoins, une étude plus court-termiste montrent que la visibilité des restaurants nouvellement étoilés augmente nettement à court-terme. Ainsi, le graphique suivant compare les recherches sur google entre le 6 février et le 6 mars puis entre le 6 mars et le 6 avril: 
 
 # 3-Analyse qualitative : Derrière les fourneaux, le regard des chefs sur la quantification étoilée du Guide Michelin
 
