@@ -72,7 +72,17 @@ Il peut être intéressant également de regarder l’impact pour les nouveaux r
 
 Sur ce graphique, la courbe bleue montre le nombre de recherches effectuées sur le restaurant la Marine qui est le nouveau restaurant 3 étoiles Michelin en 2023. La courbe rouge montre les données pour le restaurant Astrance qui a décroché sa première étoile en 2023. Nous constatons bien un pic de visite à l’annonce du guide Michelin le 6 mars 2023. Cependant, il est important de nuancer que les recherches google vont continuer d’augmenter pour le 3 étoiles tandis qu’elles resteront stables pour le 1 étoile. Ainsi, nous pouvons imaginer que pour un restaurant déjà étoilé comme l’était la Marine une nouvelle étoile apporte encore plus de visibilité que pour un restaurant qui vient de décrocher sa première étoile. 
 
-Néanmoins, une étude plus court-termiste montrent que la visibilité des restaurants nouvellement étoilés augmente nettement à court-terme. Ainsi, le graphique suivant compare les recherches sur google entre le 6 février et le 6 mars puis entre le 6 mars et le 6 avril: 
+Néanmoins, une étude plus court-termiste montrent que la visibilité des restaurants nouvellement étoilés augmente nettement à court-terme. Ainsi, le graphique suivant compare les recherches sur google de tous les nouveaux restaurants nouvellement étoilés d'Ile de france entre le 6 février et le 6 mars puis entre le 6 mars et le 6 avril: 
+
+<img width="276" alt="google trend" src="https://github.com/samir92130-fr/Guide-Michelin-vie-sociale-des-donnees/assets/152915097/3b55c32e-6828-472c-88c9-badd3297c078">
+
+On remarque que :
+Nombre de recherches le mois précédent l’annonce du guide Michelin: **9,6** recherches par jour en moyenne. 
+Nombre de recherches le jour de l’annonce: **88,4** recherches en moyenne
+Nombre de recherches le mois suivant l’annonce du guide Michelin: **14,4** recherches en moyenne. 
+
+Ces statistiques montrent que l’annonce de l’entrée d’un restaurant dans le guide Michelin permet une augmentation de la notoriété des restaurants à **court terme**. En se fiant aux recherches sur google, la notoriété augmente d’environ 49%. 
+
 
 # 3-Analyse qualitative : Derrière les fourneaux, le regard des chefs sur la quantification étoilée du Guide Michelin
 
